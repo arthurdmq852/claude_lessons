@@ -1,2 +1,2 @@
 # claude_lessons
-Some lessons that Claude made when I needed
+A few lessons Claude made me when I needed them.
