@@ -3,7 +3,7 @@ A few lessons Claude made me when I needed them.
 
 ## Table of contents 
 
-1.[C](#1-c)
+1. [C](#1-c)
 
 ---
 
